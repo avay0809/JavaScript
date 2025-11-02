@@ -27,6 +27,9 @@ let isLoggedIn = false
 console.log(typeof "Avay");
 console.log(typeof age);
 
+console.log(typeof null);      // eska jo output hai wo object ata hai
+console.log(typeof undefined);  // eska output undefined hi ata hai q ki ye ek type hai javascript mai
+
 
 
 
